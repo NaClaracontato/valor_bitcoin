@@ -1,16 +1,14 @@
-# preco_bitcoin
+# Valor do Bitcoin
 
-A new Flutter project.
+É um aplicativo desenvolvido em Flutter que consulta o valor atual do Bitcoin em tempo real utilizando uma API de cotação de criptomoedas. O aplicativo é simples e intuitivo, permitindo aos usuários verificar rapidamente o valor atual do Bitcoin.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Consulta em tempo real do valor do Bitcoin.
+- Atualização automática do valor.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter: SDK de desenvolvimento de aplicações móveis.
+- Dart: Linguagem de programação utilizada pelo Flutter.
+- HTTP: Pacote utilizado para fazer requisições à API.
